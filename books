@@ -4,7 +4,7 @@
       "id": 1,
       "title": "The Great Gatsby",
       "author": "F. Scott Fitzgerald",
-      "image": "/assets/images/graySneaker.avif",
+      "image": "../assets/images/graySneaker.avif",
       "quantity": 10
     },
     {
