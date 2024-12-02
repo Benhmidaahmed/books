@@ -12,7 +12,8 @@
       "title": "To Kill a Mockingbird",
       "author": "Harper Lee",
       "image": "2.jpg",
-      "quantity": 8
+      "quantity": 8,
+"description":"Set in the Jazz Age of the 1920s, The Great Gatsby tells the story of Jay Gatsby, a wealthy and enigmatic young man known for hosting extravagant parties at his opulent mansion in West Egg, Long Island. Narrated by Nick Carraway, Gatsby's neighbor, the novel delves into themes of ambition, love, and the American Dream. Gatsby’s obsession with Daisy Buchanan, a beautiful socialite married to the wealthy and arrogant Tom Buchanan, drives much of the plot. As the characters navigate a world of wealth, excess, and moral decay, Fitzgerald paints a vivid portrait of an era marked by both glamour and emptiness, ultimately revealing the tragic flaws of idealism and materialism."
     },
     {
       "id": 3,
