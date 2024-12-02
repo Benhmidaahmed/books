@@ -5,8 +5,8 @@
       "title": "The Great Gatsby",
       "author": "F. Scott Fitzgerald",
       "image": "1.jpg",
-      "quantity": 0 , 
-      "description":"Set in the Jazz Age of the 1920s, The Great Gatsby tells the story of Jay Gatsby, a wealthy and enigmatic young man known for hosting extravagant parties at his opulent mansion in West Egg, Long Island. Narrated by Nick Carraway, Gatsby's neighbor, the novel delves into themes of ambition, love, and the American Dream. Gatsby’s obsession with Daisy Buchanan, a beautiful socialite married to the wealthy and arrogant Tom Buchanan, drives much of the plot. As the characters navigate a world of wealth, excess, and moral decay, Fitzgerald paints a vivid portrait of an era marked by both glamour and emptiness, ultimately revealing the tragic flaws of idealism and materialism."
+      "quantity": 0,
+      "description": "Set in the Jazz Age of the 1920s, The Great Gatsby tells the story of Jay Gatsby, a wealthy and enigmatic young man known for hosting extravagant parties at his opulent mansion in West Egg, Long Island. Narrated by Nick Carraway, Gatsby's neighbor, the novel delves into themes of ambition, love, and the American Dream. Gatsby’s obsession with Daisy Buchanan, a beautiful socialite married to the wealthy and arrogant Tom Buchanan, drives much of the plot. As the characters navigate a world of wealth, excess, and moral decay, Fitzgerald paints a vivid portrait of an era marked by both glamour and emptiness, ultimately revealing the tragic flaws of idealism and materialism."
     },
     {
       "id": 2,
@@ -14,7 +14,7 @@
       "author": "Harper Lee",
       "image": "2.jpg",
       "quantity": 8,
-	"description":"To Kill a Mockingbird by Harper Lee is a classic novel set in 1930s Alabama, narrated by young Scout Finch. It follows her father, Atticus Finch, as he defends Tom Robinson, a Black man falsely accused of raping a white woman. The story explores themes of racial injustice, morality, empathy, and the loss of innocence, offering a powerful reflection on humanity and justice."
+      "description": "To Kill a Mockingbird by Harper Lee is a classic novel set in 1930s Alabama, narrated by young Scout Finch. It follows her father, Atticus Finch, as he defends Tom Robinson, a Black man falsely accused of raping a white woman. The story explores themes of racial injustice, morality, empathy, and the loss of innocence, offering a powerful reflection on humanity and justice."
     },
     {
       "id": 3,
@@ -22,7 +22,7 @@
       "author": "George Orwell",
       "image": "3.png",
       "quantity": 12,
-	"description":"1984 by George Orwell is a dystopian novel set in a totalitarian society ruled by Big Brother. It follows Winston Smith, a man who secretly rebels against a regime that controls truth, suppresses free thought, and monitors every action. The story explores themes of surveillance, propaganda, and the loss of individuality, offering a chilling warning about authoritarianism."
+      "description": "1984 by George Orwell is a dystopian novel set in a totalitarian society ruled by Big Brother. It follows Winston Smith, a man who secretly rebels against a regime that controls truth, suppresses free thought, and monitors every action. The story explores themes of surveillance, propaganda, and the loss of individuality, offering a chilling warning about authoritarianism."
     },
     {
       "id": 4,
@@ -30,7 +30,7 @@
       "author": "Jane Austen",
       "image": "6.jpg",
       "quantity": 6,
-	"description":"Pride and Prejudice by Jane Austen is a classic romance that follows Elizabeth Bennet, a witty and independent young woman, as she navigates love, social expectations, and misunderstandings. The novel explores themes of class, pride, and personal growth, with Elizabeth and the reserved Mr. Darcy learning to overcome their prejudices and discover true love."
+      "description": "Pride and Prejudice by Jane Austen is a classic romance that follows Elizabeth Bennet, a witty and independent young woman, as she navigates love, social expectations, and misunderstandings. The novel explores themes of class, pride, and personal growth, with Elizabeth and the reserved Mr. Darcy learning to overcome their prejudices and discover true love."
     },
     {
       "id": 5,
@@ -38,7 +38,7 @@
       "author": "Herman Melville",
       "image": "7.jpg",
       "quantity": 5,
-	"description":"Moby-Dick by Herman Melville is an epic tale of obsession and revenge. It follows Ishmael, a sailor aboard the whaling ship Pequod, led by the vengeful Captain Ahab. Ahab's relentless pursuit of the white whale, Moby Dick, becomes a gripping exploration of humanity's struggle against nature, fate, and inner demons."
+      "description": "Moby-Dick by Herman Melville is an epic tale of obsession and revenge. It follows Ishmael, a sailor aboard the whaling ship Pequod, led by the vengeful Captain Ahab. Ahab's relentless pursuit of the white whale, Moby Dick, becomes a gripping exploration of humanity's struggle against nature, fate, and inner demons."
     },
     {
       "id": 6,
@@ -46,15 +46,15 @@
       "author": "J.D. Salinger",
       "image": "10.jpg",
       "quantity": 9,
-	"description":"The Catcher in the Rye by J.D. Salinger is a story about Holden Caulfield, a disillusioned teenager who has been expelled from several prep schools. Narrated by Holden himself, the novel explores his feelings of alienation, rebellion, and confusion as he wanders through New York City. Throughout his journey, he grapples with his desire to protect the innocence of children while struggling with his own impending adulthood. The book is a poignant reflection on the complexities of adolescence."
+      "description": "The Catcher in the Rye by J.D. Salinger is a story about Holden Caulfield, a disillusioned teenager who has been expelled from several prep schools. Narrated by Holden himself, the novel explores his feelings of alienation, rebellion, and confusion as he wanders through New York City. Throughout his journey, he grapples with his desire to protect the innocence of children while struggling with his own impending adulthood. The book is a poignant reflection on the complexities of adolescence."
     },
     {
       "id": 7,
       "title": "The Hobbit",
       "author": "J.R.R. Tolkien",
       "image": "11.jpg",
-      "quantity": 7 , 
-      "description":"The Hobbit by J.R.R. Tolkien follows the journey of Bilbo Baggins, a reluctant hobbit who is swept into an adventurous quest to recover treasure guarded by the dragon Smaug. Along the way, Bilbo encounters trolls, elves, goblins, and a mysterious creature named Gollum. The novel explores themes of bravery, friendship, and personal growth as Bilbo transforms from a timid homebody into a hero. It’s a beloved fantasy tale that serves as a prelude to Tolkien’s The Lord of the Rings trilogy."
+      "quantity": 7,
+      "description": "The Hobbit by J.R.R. Tolkien follows the journey of Bilbo Baggins, a reluctant hobbit who is swept into an adventurous quest to recover treasure guarded by the dragon Smaug. Along the way, Bilbo encounters trolls, elves, goblins, and a mysterious creature named Gollum. The novel explores themes of bravery, friendship, and personal growth as Bilbo transforms from a timid homebody into a hero. It’s a beloved fantasy tale that serves as a prelude to Tolkien’s The Lord of the Rings trilogy."
     },
     {
       "id": 8,
@@ -62,8 +62,7 @@
       "author": "Ray Bradbury",
       "image": "12.jpg",
       "quantity": 4,
-	"description":"Fahrenheit 451 by Ray Bradbury is set in a dystopian future where books are banned and "firemen" burn any that are found. The story follows Guy Montag, a fireman who begins to question the oppressive society he serves. As he encounters people who still cherish books, Montag starts to rebel against the system, seeking knowledge and truth. The novel explores themes of censorship, the dangers of technology, and the importance of independent thought and intellectual freedom."
-
+      "description": "Fahrenheit 451 by Ray Bradbury is set in a dystopian future where books are banned and 'firemen' burn any that are found. The story follows Guy Montag, a fireman who begins to question the oppressive society he serves. As he encounters people who still cherish books, Montag starts to rebel against the system, seeking knowledge and truth. The novel explores themes of censorship, the dangers of technology, and the importance of independent thought and intellectual freedom."
     },
     {
       "id": 9,
@@ -71,7 +70,7 @@
       "author": "Charlotte Brontë",
       "image": "13.jpg",
       "quantity": 6,
-	"description":"Jane Eyre by Charlotte Brontë is the story of an orphaned girl who grows up facing hardship and mistreatment. As she matures, Jane becomes a governess at Thornfield Hall, where she falls in love with the mysterious Mr. Rochester. However, secrets about his past are uncovered, leading to a series of emotional and moral challenges. The novel explores themes of love, morality, class, and gender equality, while highlighting Jane's resilience and desire for independence."
+      "description": "Jane Eyre by Charlotte Brontë is the story of an orphaned girl who grows up facing hardship and mistreatment. As she matures, Jane becomes a governess at Thornfield Hall, where she falls in love with the mysterious Mr. Rochester. However, secrets about his past are uncovered, leading to a series of emotional and moral challenges. The novel explores themes of love, morality, class, and gender equality, while highlighting Jane's resilience and desire for independence."
     },
     {
       "id": 10,
@@ -79,7 +78,7 @@
       "author": "J.R.R. Tolkien",
       "image": "14.jpg",
       "quantity": 8,
-	"description":"The Lord of the Rings by J.R.R. Tolkien is an epic fantasy trilogy that follows the journey of Frodo Baggins, a hobbit tasked with destroying the One Ring, a powerful artifact created by the Dark Lord Sauron. Joined by a diverse group of companions, Frodo embarks on a perilous journey across Middle-earth to prevent Sauron from reclaiming the ring and conquering the world. The story explores themes of friendship, courage, sacrifice, and the battle between good and evil. It is renowned for its rich world-building, complex characters, and profound mythology."
+      "description": "The Lord of the Rings by J.R.R. Tolkien is an epic fantasy trilogy that follows the journey of Frodo Baggins, a hobbit tasked with destroying the One Ring, a powerful artifact created by the Dark Lord Sauron. Joined by a diverse group of companions, Frodo embarks on a perilous journey across Middle-earth to prevent Sauron from reclaiming the ring and conquering the world. The story explores themes of friendship, courage, sacrifice, and the battle between good and evil. It is renowned for its rich world-building, complex characters, and profound mythology."
     },
     {
       "id": 11,
@@ -87,7 +86,7 @@
       "author": "Paulo Coelho",
       "image": "15.jpg",
       "quantity": 15,
-	"description":"The Alchemist by Paulo Coelho is a philosophical novel that follows the journey of Santiago, a young shepherd from Spain, who dreams of finding a hidden treasure in the Egyptian pyramids. Along the way, he learns valuable life lessons about pursuing one’s personal legend, following dreams, and understanding the interconnectedness of all things. The book emphasizes themes of self-discovery, destiny, and the importance of listening to one's heart. It is a widely translated and celebrated work for its inspirational messages about life and personal growth."
+      "description": "The Alchemist by Paulo Coelho is a philosophical novel that follows the journey of Santiago, a young shepherd from Spain, who dreams of finding a hidden treasure in the Egyptian pyramids. Along the way, he learns valuable life lessons about pursuing one’s personal legend, following dreams, and understanding the interconnectedness of all things. The book emphasizes themes of self-discovery, destiny, and the importance of listening to one's heart. It is a widely translated and celebrated work for its inspirational messages about life and personal growth."
     },
     {
       "id": 12,
@@ -95,7 +94,7 @@
       "author": "John Steinbeck",
       "image": "17.jpg",
       "quantity": 11,
-	"description":"The Grapes of Wrath by John Steinbeck is a powerful novel set during the Great Depression, focusing on the Joad family as they travel westward from Oklahoma to California in search of a better life. Facing poverty, exploitation, and hardship, they encounter the harsh realities of the American Dream. The novel explores themes of social injustice, the struggles of migrant workers, and the resilience of the human spirit. Through vivid storytelling, Steinbeck critiques the inequalities of society and advocates for empathy and collective action. It is a seminal work in American literature."
+      "description": "The Grapes of Wrath by John Steinbeck is a powerful novel set during the Great Depression, focusing on the Joad family as they travel westward from Oklahoma to California in search of a better life. Facing poverty, exploitation, and hardship, they encounter the harsh realities of the American Dream. The novel explores themes of social injustice, the struggles of migrant workers, and the resilience of the human spirit. Through vivid storytelling, Steinbeck critiques the inequalities of society and advocates for empathy and collective action. It is a seminal work in American literature."
     }
   ]
 }
